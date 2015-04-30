@@ -1,5 +1,5 @@
--- Unturned Rocket Community Translations --
+-- Traduções para Rocket --
 
-This is a repository containing community translation files for the Rocket Unturned server mod.
+Repositorio para os arquivos de tradução para o Rocket e seus plugins.
 
 Get Rocket: https://rocket.foundation/

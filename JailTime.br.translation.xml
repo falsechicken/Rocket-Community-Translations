@@ -11,7 +11,7 @@
   <Translation Id="jailtime_player_arrested" Value="{0} Foi preso na cadeia {1} !" />
   <Translation Id="jailtime_player_released" Value="{0} Liberado" />
   <Translation Id="jailtime_player_list" Value="Players: {0}" />
-  <Translation Id="jailtime_player_list_clear" Value="as Cadeias estão ficando empoeiradas... />
+  <Translation Id="jailtime_player_list_clear" Value="as Cadeias estão ficando empoeiradas..." />
   <Translation Id="jailtime_player_notfound" Value="Não achei o jogador {0}!" />
   <Translation Id="jailtime_player_release_msg" Value="Você foi PRESO!" />
   <Translation Id="jailtime_player_arrest_msg" Value="Você foi solto!" />

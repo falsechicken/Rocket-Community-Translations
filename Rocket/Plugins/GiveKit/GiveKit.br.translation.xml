@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="command_givekit_available_kits" Value="Kits: {0}." />
+  <Translation Id="command_givekit_instructions_share" Value="Digite /givekit &lt;kit nome&gt;/&lt;player*&gt; *Player é opcional" />
+  <Translation Id="command_givekit_instructions" Value="Digite /givekit &lt;kit none&gt;" />
+  <Translation Id="command_givekit_player_not_found" Value="Não encontrei esse jogador {0}!" />
+  <Translation Id="command_givekit_kit_not_found" Value="{0} Kit não encontrado!" />
+  <Translation Id="command_givekit_delivered_to_player" Value="Kit {0} entregue para {1}!" />
+  <Translation Id="command_givekit_recieved_by_player" Value="Você recebeu um kit {0} !" />
+  <Translation Id="command_givekit_no_permissions" Value="Você não tem permissão para usar /givekit!" />
+  <Translation Id="command_givekit_no_permissions_kit" Value="Você não tem permissão para usar o kit {0} !" />
+  <Translation Id="command_givekit_no_permissions_share" Value="Você não tem permissão para usar dar Kits!" />
+  <Translation Id="command_givekit_cooldown_command" Value="Aguarde {0} segundos para usar /givekit denovo!" />
+  <Translation Id="command_givekit_cooldown_kit" Value="Aguarde {0} segundos para usar esse kit denovo" />
+</Translations>

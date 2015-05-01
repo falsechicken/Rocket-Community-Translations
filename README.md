@@ -20,7 +20,7 @@ Se trata de un repositorio que contiene los archivos de traducción de la comuni
 
 Obtén Rocket: https://rocket.foundation/
 
-Traducido con Google Translate, si se puede hacer una humanizado traducir, únete a nosotros!
+ *Traducido con Google Translate, si se puede hacer una humanizado traducir, únete a nosotros!
 -----------------------------------------------------------------------------------------------------------------------------
 
 - Unturned Rakete Gemeinschaft Translations -
@@ -29,7 +29,7 @@ Dies ist ein Repository mit Community Übersetzungsdateien für die Rakete Untur
 
 Holen Rakete: https://rocket.foundation/
 
-Übersetzt mit Google Translate, wenn Sie machen können, ein humanisierter übersetzen, bitte besuchen Sie uns!
+ *Übersetzt mit Google Translate, wenn Sie machen können, ein humanisierter übersetzen, bitte besuchen Sie uns!
 -----------------------------------------------------------------------------------------------------------------------------
 
 - あらゆる手段ロケットコミュニティ翻訳 - 
@@ -38,7 +38,7 @@ Holen Rakete: https://rocket.foundation/
 
 取得ロケット：https://rocket.foundation/
 
-翻訳あなたは、ヒト化は、翻訳することができた場合は、Googleで翻訳、ご参加ください！
+ * 翻訳あなたは、ヒト化は、翻訳することができた場合は、Googleで翻訳、ご参加ください！
 -----------------------------------------------------------------------------------------------------------------------------
 
 - RELIQUI FACIO Rocket Community Translations -
@@ -47,5 +47,5 @@ Hoc est repository containing communitatis translation files pro Rocket RELIQUI 
 
 Get Rocket: https://rocket.foundation/
 
-Translate cum translato si potes humanatum translate Placere nos coniunge!
+ *Translate cum translato si potes humanatum translate Placere nos coniunge!
 -----------------------------------------------------------------------------------------------------------------------------

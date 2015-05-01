@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="command_balance_show" Value="Saldo atual: {0} {1}" />
+  <Translation Id="command_pay_invalid" Value="Argumento invalido" />
+  <Translation Id="command_pay_error_pay_self" Value="Você não pode pagar você mesmo..." />
+  <Translation Id="command_pay_error_invalid_amount" Value="Quantia invalida" />
+  <Translation Id="command_pay_error_cant_afford" Value="Você não tem grana" />
+  <Translation Id="command_pay_error_player_not_found" Value="Jogador nao encontrado" />
+  <Translation Id="command_pay_private" Value="Voce pagou {0} {1} {2}" />
+  <Translation Id="command_pay_other_private" Value="Você recebeu {0} {1} de {2}" />
+</Translations>

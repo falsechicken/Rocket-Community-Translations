@@ -6,7 +6,7 @@ Baixe Rocket em: https://rocket.foundation/
 
 Clique em "Download ZIP" e extraia os Arquivos direto na pasta do seu servidor.
 
-..\Unturned\Server\<NOME>\
+    ..\Unturned\Server\<NOME>\
 
 Ou usando GIT.
 
@@ -22,4 +22,4 @@ Linha:
     <LanguageCode>br</LanguageCode>
 
 
-  salvar.
+ clique em salvar e pronto.

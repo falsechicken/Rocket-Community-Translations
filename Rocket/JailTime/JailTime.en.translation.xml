@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TranslationEntry Id="jailtime_jail_notset" Value="No cells set, please use /jail set [name] first!" />
+  <TranslationEntry Id="jailtime_jail_notfound" Value="No cell named {0} found!" />
+  <TranslationEntry Id="jailtime_jail_set" Value="New cell named {0} created where you stand!" />
+  <TranslationEntry Id="jailtime_jail_exists" Value="Cell named {0} already exists!" />
+  <TranslationEntry Id="jailtime_jail_unset" Value="Cell named {0} deleted!" />
+  <TranslationEntry Id="jailtime_jail_list" Value="Jail Cells: {0}" />
+  <TranslationEntry Id="jailtime_player_immune" Value="That player cannot be arrested!" />
+  <TranslationEntry Id="jailtime_player_in_jail" Value="Player {0} already in jail!" />
+  <TranslationEntry Id="jailtime_player_arrested" Value="Player {0} was arrested in {1} cell!" />
+  <TranslationEntry Id="jailtime_player_released" Value="Player {0} released from jail!" />
+  <TranslationEntry Id="jailtime_player_list" Value="Players: {0}" />
+  <TranslationEntry Id="jailtime_player_list_clear" Value="Jail cells are getting dusty!" />
+  <TranslationEntry Id="jailtime_player_notfound" Value="No player found named {0}!" />
+  <TranslationEntry Id="jailtime_player_arrest_msg" Value="You have been arrested for {0} seconds!" />
+  <TranslationEntry Id="jailtime_player_release_msg" Value="You have been released!" />
+  <TranslationEntry Id="jailtime_player_back_msg" Value="Get back in your cell!" />
+  <TranslationEntry Id="jailtime_help" Value="/jail commands: add, remove, set, unset, list, teleport" />
+  <TranslationEntry Id="jailtime_help_add" Value="use /jail add &lt;player&gt; &lt;time&gt; &lt;cell&gt; - to arrest a player, if no &lt;cell&gt; uses a random one" />
+  <TranslationEntry Id="jailtime_help_remove" Value="use /jail remove &lt;player&gt; - to release a player" />
+  <TranslationEntry Id="jailtime_help_list" Value="use /jail list players or /jail list cells" />
+  <TranslationEntry Id="jailtime_help_set" Value="use /jail set &lt;cell&gt; - to set a new jail cell" />
+  <TranslationEntry Id="jailtime_help_unset" Value="use /jail unset &lt;cell&gt; - to delete a jail cell" />
+  <TranslationEntry Id="jailtime_help_teleport" Value="use /jail teleport &lt;cell&gt; - to teleport to a cell" />
+  <TranslationEntry Id="jailtime_ban" Value="You have been banned for disconnecting while in Jail!" />
+  <TranslationEntry Id="jailtime_ban_time" Value="You have been banned for {0} seconds for disconnecting while in Jail!" />
+</Translations>

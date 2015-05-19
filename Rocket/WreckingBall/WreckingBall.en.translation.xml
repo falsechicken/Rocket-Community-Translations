@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TranslationEntry Id="wreckingball_scan" Value="Found @ {0}m:{1}" />
+  <TranslationEntry Id="wreckingball_map_clear" Value="Map has no elements!" />
+  <TranslationEntry Id="wreckingball_not_found" Value="No elements found in a {0} radius!" />
+  <TranslationEntry Id="wreckingball_complete" Value="Wrecking Ball complete! {0} elements(s) Destroyed!" />
+  <TranslationEntry Id="wreckingball_initiated" Value="Wrecking Ball initiated : {0} sec(s)" />
+  <TranslationEntry Id="wreckingball_processing" Value="Wrecking Ball destroying {0} element(s): {1} sec(s) left" />
+  <TranslationEntry Id="wreckingball_aborted" Value="Wrecking Ball Aborted! Destruction queue cleared!" />
+  <TranslationEntry Id="wreckingball_help" Value="Please define filter and radius: /wreck &lt;filter&gt; &lt;radius&gt; or /wreck teleport b|s" />
+  <TranslationEntry Id="wreckingball_help_teleport" Value="Please define type for teleport: /wreck teleport s|b" />
+  <TranslationEntry Id="wreckingball_help_scan" Value="Please define a scan filter and radius: /wreck scan &lt;filter&gt; &lt;radius&gt;" />
+  <TranslationEntry Id="wreckingball_queued" Value="{0} elements(s) found - ({1} sec(s))" />
+  <TranslationEntry Id="wreckingball_prompt" Value="Type '/wreck confirm' or '/wreck abort'" />
+</Translations>

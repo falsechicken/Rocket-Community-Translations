@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TranslationEntry Id="command_generic_invalid_parameter" Value="Invalid format." />
+  <TranslationEntry Id="command_generic_invalid_steamid" Value="{0} is an invalid SteamID format." />
+  <TranslationEntry Id="default_permit_message" Value="You have added {0} {1} to the whitelist." />
+  <TranslationEntry Id="default_unpermit_message" Value="You have removed {0} from the whitelist." />
+  <TranslationEntry Id="no_player_found_unpermit" Value="No player found that has id {0}." />
+  <TranslationEntry Id="update_whitelist_mysql_message" Value="Whitelist up to date from Mysql Database." />
+</Translations>

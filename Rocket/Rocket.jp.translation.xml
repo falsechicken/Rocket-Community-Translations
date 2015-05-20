@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TranslationEntry Id="rocket_join_public" Value="{0} さんが接続しました！" />
+  <TranslationEntry Id="rocket_leave_public" Value="{0} さんが切断しました！" />
+  <TranslationEntry Id="rocket_restart_warning_public" Value="３０秒後にサーバーが再起動されます" />
+  <TranslationEntry Id="command_generic_failed_find_player" Value="プレイヤーを見つけることができませんでした" />
+  <TranslationEntry Id="command_generic_invalid_parameter" Value="無効な引数です" />
+  <TranslationEntry Id="command_generic_target_player_not_found" Value="指定プレイヤーが見つかりません" />
+  <TranslationEntry Id="command_generic_teleport_while_driving_error" Value="車を載ってる間はテレポートすうことができません" />
+  <TranslationEntry Id="command_god_enable_console" Value="{0} enabled Godmode" />
+  <TranslationEntry Id="command_god_enable_private" Value="無敵モードを有効にしました" />
+  <TranslationEntry Id="command_god_disable_console" Value="{0} disabled Godmode" />
+  <TranslationEntry Id="command_god_disable_private" Value="無敵モードを無効にしました" />
+  <TranslationEntry Id="command_vanish_enable_console" Value="{0} enabled Vanishmode" />
+  <TranslationEntry Id="command_vanish_enable_private" Value="透明モードを有効にしました" />
+  <TranslationEntry Id="command_vanish_disable_console" Value="{0} disabled Vanishmode" />
+  <TranslationEntry Id="command_vanish_disable_private" Value="透明モードを無効にしました" />
+  <TranslationEntry Id="command_duty_enable_console" Value="{0} is in duty" />
+  <TranslationEntry Id="command_duty_enable_private" Value="管理者になりました" />
+  <TranslationEntry Id="command_duty_disable_console" Value="{0} is no longer in duty" />
+  <TranslationEntry Id="command_duty_disable_private" Value="管理者モードを無効にしました" />
+  <TranslationEntry Id="command_bed_no_bed_found_private" Value="テレポートするためのベッドがありません" />
+  <TranslationEntry Id="command_i_giving_console" Value="Giving {0} item {1}:{2}" />
+  <TranslationEntry Id="command_i_giving_private" Value="あなたに {0}x {1} ({2}) を与えました" />
+  <TranslationEntry Id="command_z_giving_console" Value="Spawning {1} zombies near {0}" />
+  <TranslationEntry Id="command_z_giving_private" Value="{0} 体のゾンビをすぽーんさせました" />
+  <TranslationEntry Id="command_i_giving_failed_private" Value="Failed giving you item {0}x {1} ({2})" />
+  <TranslationEntry Id="command_v_giving_console" Value="Giving {0} vehicle {1}" />
+  <TranslationEntry Id="command_v_giving_private" Value="あなたに {0} ({1}) を与えました" />
+  <TranslationEntry Id="command_v_giving_failed_private" Value="Failed giving you a {0} ({1})" />
+  <TranslationEntry Id="command_tps_tps" Value="TPS: {0}" />
+  <TranslationEntry Id="command_tps_running_since" Value="稼働時間: {0} UTC" />
+  <TranslationEntry Id="command_p_reload_private" Value="権限を再読み込みしました" />
+  <TranslationEntry Id="command_p_groups_private" Value="{0} groups are: {1}" />
+  <TranslationEntry Id="command_p_permissions_private" Value="{0} permissions are: {1}" />
+  <TranslationEntry Id="command_tp_teleport_console" Value="{0} teleported to {1}" />
+  <TranslationEntry Id="command_tp_teleport_private" Value="{0} へテレポートしました" />
+  <TranslationEntry Id="command_tp_failed_find_destination" Value="場所を特定することができませんでした" />
+  <TranslationEntry Id="command_tphere_teleport_console" Value="{0} さんは {1} へテレポートされました" />
+  <TranslationEntry Id="command_tphere_teleport_from_private" Value="{0} をあなたにテレポートさせました" />
+  <TranslationEntry Id="command_tphere_teleport_to_private" Value="あなたを {0} へテレポートさせました" />
+  <TranslationEntry Id="command_clear_error" Value="{0}さんのインベントリの消去に失敗しました" />
+  <TranslationEntry Id="command_clear_private" Value="あなたのインベントリは消去されました" />
+  <TranslationEntry Id="command_clear_other" Value="{0} によりインベントリが消去されました" />
+  <TranslationEntry Id="command_clear_other_success" Value="{0} さんのインベントリの消去に成功しました" />
+  <TranslationEntry Id="command_investigate_private" Value="{0} さんのSteamID64は: {1} です" />
+  <TranslationEntry Id="command_heal_success_me" Value="{0} さんを回復させました" />
+  <TranslationEntry Id="command_heal_success_other" Value="あなたは {0} により回復されました" />
+  <TranslationEntry Id="command_heal_success" Value="あなたは回復されました" />
+  <TranslationEntry Id="command_compass_facing_private" Value="You are facing {0}" />
+  <TranslationEntry Id="command_compass_north" Value="北" />
+  <TranslationEntry Id="command_compass_east" Value="東" />
+  <TranslationEntry Id="command_compass_south" Value="南" />
+  <TranslationEntry Id="command_compass_west" Value="西" />
+  <TranslationEntry Id="command_compass_northwest" Value="NW" />
+  <TranslationEntry Id="command_compass_northeast" Value="NE" />
+  <TranslationEntry Id="command_compass_southwest" Value="SW" />
+  <TranslationEntry Id="command_compass_southeast" Value="SE" />
+  <TranslationEntry Id="command_rocket_plugins_loaded" Value="有効プラグイン: {0}" />
+  <TranslationEntry Id="command_rocket_plugins_unloaded" Value="無効プラグイン: {0}" />
+  <TranslationEntry Id="command_rocket_reload_plugin" Value="再読込中・・ {0}" />
+  <TranslationEntry Id="command_rocket_not_loaded" Value="The plugin {0} is not loaded" />
+  <TranslationEntry Id="command_rocket_unload_plugin" Value="Unloading {0}" />
+  <TranslationEntry Id="command_rocket_load_plugin" Value="Loading {0}" />
+  <TranslationEntry Id="command_rocket_already_loaded" Value="The plugin {0} is already loaded" />
+  <TranslationEntry Id="command_rocket_reload" Value="Reloading Rocket" />
+  <TranslationEntry Id="command_rocket_plugin_not_found" Value="Plugin {0} not found" />
+</Translations>

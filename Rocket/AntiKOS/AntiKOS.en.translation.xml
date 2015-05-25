@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TranslationEntry Id="antikos_warning" Value="ANTI-KOS : This is your {0}# warning of {1}!" />
-  <TranslationEntry Id="antikos_warning_last" Value="ANTI-KOS : This is your last warning, next KOS will kill you!" />
-  <TranslationEntry Id="antikos_executed" Value="ANTI-KOS : {0} have been striped of all items for KOS!" />
-  <TranslationEntry Id="antikos_execute" Value="ANTI-KOS : Your killer has been striped of all items for KOS!" />
-</Translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TranslationEntry Id="anti_suicide_kick_log" Value="{0} was kicked for multiple suicides!" />
+  <TranslationEntry Id="anti_suicide_kick_reason" Value="Anti-Suicide - Please stop that!" />
+  <TranslationEntry Id="anti_suicide_warning" Value="Anti-Suicide - Teleporting to last Location!" />
+</Translations>

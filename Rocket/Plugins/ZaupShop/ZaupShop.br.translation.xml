@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Translation Id="buy_command_usage" Value="Use: /buy [v.]ID/[quant.]/[qualidade 25, 50, 75, ou 100] {v.} para carros." />
-  <Translation Id="cost_command_usage" Value="Use: /cost [v.]ID." />
-  <Translation Id="sell_command_usage" Value="use: /sell ID/[quant.] (opcional)." />
-  <Translation Id="error_giving_item" Value="Falha na compra de {0}.  Você não foi cobrado." />
-  <Translation Id="error_getting_cost" Value="Erro ao verificar o custo de {0}!" />
-  <Translation Id="item_cost_msg" Value="O item {0} custa {1} {2} na compra / {3} {4} na venda." />
-  <Translation Id="vehicle_cost_msg" Value="O Carro {0} custa {1} {2}." />
-  <Translation Id="item_buy_msg" Value="Você adquiriu {5} {0} por {1} {2}.  Saldo {3} {4}." />
-  <Translation Id="vehicle_buy_msg" Value="Você adquiriu 1 {0} por {1} {2}.  Saldo {3} {4}." />
-  <Translation Id="not_enough_currency_msg" Value="Saldo insuficiente {0} para comprar {1} {2}." />
-  <Translation Id="buy_items_off" Value="A função foi desativada." />
-  <Translation Id="buy_vehicles_off" Value="A função foi desativada." />
-  <Translation Id="item_not_available" Value="Item {0} Não disponível." />
-  <Translation Id="vehicle_not_available" Value="Carro {0} Não disponível." />
-  <Translation Id="could_not_find" Value="Id invalido {0}." />
-  <Translation Id="sell_items_off" Value="A função foi desativada." />
-  <Translation Id="not_have_item_sell" Value="Você não tem {0} para vender." />
-  <Translation Id="not_enough_items_sell" Value="Você não tem {0} {1} para vender." />
-  <Translation Id="not_enough_ammo_sell" Value="Você não tem munição {0} para vender." />
-  <Translation Id="sold_items" Value="Você vendeu {0} {1} por {2} {3}. Saldo: {4} {5}." />
-  <Translation Id="no_sell_price_set" Value="A Loja não compra o item {0}" />
+  <TranslationEntry Id="buy_command_usage" Value="Use: /buy [v.]ID/[quant.]/[qualidade 25, 50, 75, ou 100] {v.} para carros." />
+  <TranslationEntry Id="cost_command_usage" Value="Use: /cost [v.]ID." />
+  <TranslationEntry Id="sell_command_usage" Value="use: /sell ID/[quant.] (opcional)." />
+  <TranslationEntry Id="error_giving_item" Value="Falha na compra de {0}.  Você não foi cobrado." />
+  <TranslationEntry Id="error_getting_cost" Value="Erro ao verificar o custo de {0}!" />
+  <TranslationEntry Id="item_cost_msg" Value="O item {0} custa {1} {2} na compra / {3} {4} na venda." />
+  <TranslationEntry Id="vehicle_cost_msg" Value="O Carro {0} custa {1} {2}." />
+  <TranslationEntry Id="item_buy_msg" Value="Você adquiriu {5} {0} por {1} {2}.  Saldo {3} {4}." />
+  <TranslationEntry Id="vehicle_buy_msg" Value="Você adquiriu 1 {0} por {1} {2}.  Saldo {3} {4}." />
+  <TranslationEntry Id="not_enough_currency_msg" Value="Saldo insuficiente {0} para comprar {1} {2}." />
+  <TranslationEntry Id="buy_items_off" Value="A função foi desativada." />
+  <TranslationEntry Id="buy_vehicles_off" Value="A função foi desativada." />
+  <TranslationEntry Id="item_not_available" Value="Item {0} Não disponível." />
+  <TranslationEntry Id="vehicle_not_available" Value="Carro {0} Não disponível." />
+  <TranslationEntry Id="could_not_find" Value="Id invalido {0}." />
+  <TranslationEntry Id="sell_items_off" Value="A função foi desativada." />
+  <TranslationEntry Id="not_have_item_sell" Value="Você não tem {0} para vender." />
+  <TranslationEntry Id="not_enough_items_sell" Value="Você não tem {0} {1} para vender." />
+  <TranslationEntry Id="not_enough_ammo_sell" Value="Você não tem munição {0} para vender." />
+  <TranslationEntry Id="sold_items" Value="Você vendeu {0} {1} por {2} {3}. Saldo: {4} {5}." />
+  <TranslationEntry Id="no_sell_price_set" Value="A Loja não compra o item {0}" />
 </Translations>

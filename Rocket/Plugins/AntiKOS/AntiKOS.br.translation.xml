@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TranslationEntry Id="antikos_warning" Value="ANTI-KOS : Esse é o seu {0}# aviso de {1}!" />
-  <TranslationEntry Id="antikos_warning_last" Value="ANTI-KOS : Ultimo aviso, no próximo KOS você vai morrer!" />
-  <TranslationEntry Id="antikos_executed" Value="ANTI-KOS : {0} foi executado por fazer KOS!" />
-  <TranslationEntry Id="antikos_execute" Value="ANTI-KOS : O seu assassino foi executado por KOS!" />
+  <Translation Id="antikos_warning" Value="ANTI-KOS : Esse é o seu {0}# aviso de {1}!" />
+  <Translation Id="antikos_warning_last" Value="ANTI-KOS : Ultimo aviso, no próximo KOS você vai morrer!" />
+  <Translation Id="antikos_executed" Value="ANTI-KOS : {0} foi executado por fazer KOS!" />
+  <Translation Id="antikos_execute" Value="ANTI-KOS : O seu assassino foi executado por KOS!" />
 </Translations>

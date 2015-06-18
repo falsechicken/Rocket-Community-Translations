@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TranslationEntry Id="command_kit_invalid_parameter" Value="Parâmetro Invalido! use: /kit &lt;nome&gt;" />
-  <TranslationEntry Id="command_kit_not_found" Value="Kit não encontrado!" />
-  <TranslationEntry Id="command_kit_no_permissions" Value="Você não tem permissões para usar esse Kit" />
-  <TranslationEntry Id="command_kit_cooldown_command" Value="Você precisa aguardar {0} segundos para usar os kits novamente" />
-  <TranslationEntry Id="command_kit_cooldown_kit" Value="Você precisa aguardar {0} segundos para usar esse Kit novamente" />
-  <TranslationEntry Id="command_kit_failed_giving_item" Value="Falha ao entregar para {0} o item: ({1},{2})" />
-  <TranslationEntry Id="command_kit_success" Value="Você acaba de receber o Kit {0}" />
+  <Translation Id="command_kit_invalid_parameter" Value="Parâmetro Invalido! use: /kit &lt;nome&gt;" />
+  <Translation Id="command_kit_not_found" Value="Kit não encontrado!" />
+  <Translation Id="command_kit_no_permissions" Value="Você não tem permissões para usar esse Kit" />
+  <Translation Id="command_kit_cooldown_command" Value="Você precisa aguardar {0} segundos para usar os kits novamente" />
+  <Translation Id="command_kit_cooldown_kit" Value="Você precisa aguardar {0} segundos para usar esse Kit novamente" />
+  <Translation Id="command_kit_failed_giving_item" Value="Falha ao entregar para {0} o item: ({1},{2})" />
+  <Translation Id="command_kit_success" Value="Você acaba de receber o Kit {0}" />
 </Translations>

@@ -1,28 +1,28 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TranslationEntry Id="jailtime_jail_notset" Value="Sem cadeias!, use /jail set [nome] " />
-  <TranslationEntry Id="jailtime_jail_notfound" Value="Não encontrei cadeia com esse nome {0}!" />
-  <TranslationEntry Id="jailtime_jail_set" Value="Nova cadeia com nome {0} Neste local" />
-  <TranslationEntry Id="jailtime_jail_exists" Value="Cadeia {0} já existe!" />
-  <TranslationEntry Id="jailtime_jail_unset" Value="Cadeia {0} Removida!" />
-  <TranslationEntry Id="jailtime_jail_list" Value="Cadeias: {0}" />
-  <TranslationEntry Id="jailtime_player_immune" Value="Jogador não pode ser preso" />
-  <TranslationEntry Id="jailtime_player_in_jail" Value="{0} Já está preso" />
-  <TranslationEntry Id="jailtime_player_arrested" Value="{0} Foi preso na cadeia {1} !" />
-  <TranslationEntry Id="jailtime_player_released" Value="{0} Liberado" />
-  <TranslationEntry Id="jailtime_player_list" Value="Players: {0}" />
-  <TranslationEntry Id="jailtime_player_list_clear" Value="as Cadeias estão ficando empoeiradas..." />
-  <TranslationEntry Id="jailtime_player_notfound" Value="Não achei o jogador {0}!" />
-  <TranslationEntry Id="jailtime_player_release_msg" Value="Você foi PRESO!" />
-  <TranslationEntry Id="jailtime_player_arrest_msg" Value="Você foi solto!" />
-  <TranslationEntry Id="jailtime_player_back_msg" Value="Ei, volte para sua cela!" />
-  <TranslationEntry Id="jailtime_help" Value="/jail Comandos: add, remove, set, unset and list" />
-  <TranslationEntry Id="jailtime_help_add" Value="use /jail add &lt;player&gt;/&lt;cell&gt; - para prender um player, se nenhum &lt;cell&gt; usa um aleatorio" />
-  <TranslationEntry Id="jailtime_help_remove" Value="use /jail remove &lt;player&gt; - to para soltar um player" />
-  <TranslationEntry Id="jailtime_help_list" Value="use /jail list players ou /jail list cells" />
-  <TranslationEntry Id="jailtime_help_set" Value="use /jail set &lt;cell&gt; - para criar uma cadeia" />
-  <TranslationEntry Id="jailtime_help_unset" Value="use /jail unset &lt;cell&gt; - para deletar uma cadeia" />
-  <TranslationEntry Id="jailtime_ban" Value="Você foi BANIDO por desconectar preso!" />
-  <TranslationEntry Id="jailtime_ban_time" Value="Você foi banido por {0} segundos por desconectar na cadeia!" />
+  <Translation Id="jailtime_jail_notset" Value="Sem cadeias!, use /jail set [nome] " />
+  <Translation Id="jailtime_jail_notfound" Value="Não encontrei cadeia com esse nome {0}!" />
+  <Translation Id="jailtime_jail_set" Value="Nova cadeia com nome {0} Neste local" />
+  <Translation Id="jailtime_jail_exists" Value="Cadeia {0} já existe!" />
+  <Translation Id="jailtime_jail_unset" Value="Cadeia {0} Removida!" />
+  <Translation Id="jailtime_jail_list" Value="Cadeias: {0}" />
+  <Translation Id="jailtime_player_immune" Value="Jogador não pode ser preso" />
+  <Translation Id="jailtime_player_in_jail" Value="{0} Já está preso" />
+  <Translation Id="jailtime_player_arrested" Value="{0} Foi preso na cadeia {1} !" />
+  <Translation Id="jailtime_player_released" Value="{0} Liberado" />
+  <Translation Id="jailtime_player_list" Value="Players: {0}" />
+  <Translation Id="jailtime_player_list_clear" Value="as Cadeias estão ficando empoeiradas..." />
+  <Translation Id="jailtime_player_notfound" Value="Não achei o jogador {0}!" />
+  <Translation Id="jailtime_player_release_msg" Value="Você foi PRESO!" />
+  <Translation Id="jailtime_player_arrest_msg" Value="Você foi solto!" />
+  <Translation Id="jailtime_player_back_msg" Value="Ei, volte para sua cela!" />
+  <Translation Id="jailtime_help" Value="/jail Comandos: add, remove, set, unset and list" />
+  <Translation Id="jailtime_help_add" Value="use /jail add &lt;player&gt;/&lt;cell&gt; - para prender um player, se nenhum &lt;cell&gt; usa um aleatorio" />
+  <Translation Id="jailtime_help_remove" Value="use /jail remove &lt;player&gt; - to para soltar um player" />
+  <Translation Id="jailtime_help_list" Value="use /jail list players ou /jail list cells" />
+  <Translation Id="jailtime_help_set" Value="use /jail set &lt;cell&gt; - para criar uma cadeia" />
+  <Translation Id="jailtime_help_unset" Value="use /jail unset &lt;cell&gt; - para deletar uma cadeia" />
+  <Translation Id="jailtime_ban" Value="Você foi BANIDO por desconectar preso!" />
+  <Translation Id="jailtime_ban_time" Value="Você foi banido por {0} segundos por desconectar na cadeia!" />
 </Translations>

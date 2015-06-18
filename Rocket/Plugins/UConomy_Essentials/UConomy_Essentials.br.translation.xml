@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TranslationEntry Id="pay_time_msg" Value="Você recebeu {0} {1} de salario do grupo {2}." />
-  <TranslationEntry Id="unable_to_pay_group_msg" Value="Não foi possivel pagar {0} ja que nao {1} definido um salario para o grupo." />
-  <TranslationEntry Id="to_killer_msg" Value="Você recebeu {0} {1} por matar. {2}." />
-  <TranslationEntry Id="lose_suicide_msg" Value="Você se matou e perdeu {0} {1}" />
-  <TranslationEntry Id="new_balance_msg" Value="Saldo {0} {1}." />
-  <TranslationEntry Id="lose_money_on_death_msg" Value="Você perdeu {0} {1} por morrer." />
-  <TranslationEntry Id="apay_msg" Value="Você pagou {0} {1} {2}." />
-  <TranslationEntry Id="apaid_msg" Value="{0} lhe pagou {1} {2}. saldo {3} {4}." />
-  <TranslationEntry Id="experience_exchange_not_available" Value="Função indisponivel :/" />
-  <TranslationEntry Id="money_exchange_not_available" Value="Função indisponivel :/" />
-  <TranslationEntry Id="exchange_zero_amount_error" Value="Entre com o valor de experience/money para trocar." />
-  <TranslationEntry Id="exchange_insufficient_experience" Value="Você não tem {0} exprience." />
-  <TranslationEntry Id="exchange_insufficent_money" Value="Você não tem {0} {1}." />
-  <TranslationEntry Id="apay_usage_msg" Value="Usar: /apay &lt;player name ou id&gt;/&lt;val&gt;" />
-  <TranslationEntry Id="exchange_usage_msg" Value="Usar: /exchange &lt;val&gt;[/money] (incl. /money vai trocar money por XP por padrao troca XP por money)" />
-  <TranslationEntry Id="not_valid_player_msg" Value="{0} Nome/STEAMID invalido." />
-  <TranslationEntry Id="not_valid_amount" Value="{0} Valor incorreto." />
-  <TranslationEntry Id="zombie_kill_paid_msg" Value="Você recebeu {0} {1} por matar um zumbi.  saldo {2} {3}." />
-  <TranslationEntry Id="mega_zombie_kill_paid_msg" Value="Você recebeu {0} {1} por matar um Gigante.  saldo {2} {3}." />
+  <Translation Id="pay_time_msg" Value="Você recebeu {0} {1} de salario do grupo {2}." />
+  <Translation Id="unable_to_pay_group_msg" Value="Não foi possivel pagar {0} ja que nao {1} definido um salario para o grupo." />
+  <Translation Id="to_killer_msg" Value="Você recebeu {0} {1} por matar. {2}." />
+  <Translation Id="lose_suicide_msg" Value="Você se matou e perdeu {0} {1}" />
+  <Translation Id="new_balance_msg" Value="Saldo {0} {1}." />
+  <Translation Id="lose_money_on_death_msg" Value="Você perdeu {0} {1} por morrer." />
+  <Translation Id="apay_msg" Value="Você pagou {0} {1} {2}." />
+  <Translation Id="apaid_msg" Value="{0} lhe pagou {1} {2}. saldo {3} {4}." />
+  <Translation Id="experience_exchange_not_available" Value="Função indisponivel :/" />
+  <Translation Id="money_exchange_not_available" Value="Função indisponivel :/" />
+  <Translation Id="exchange_zero_amount_error" Value="Entre com o valor de experience/money para trocar." />
+  <Translation Id="exchange_insufficient_experience" Value="Você não tem {0} exprience." />
+  <Translation Id="exchange_insufficent_money" Value="Você não tem {0} {1}." />
+  <Translation Id="apay_usage_msg" Value="Usar: /apay &lt;player name ou id&gt;/&lt;val&gt;" />
+  <Translation Id="exchange_usage_msg" Value="Usar: /exchange &lt;val&gt;[/money] (incl. /money vai trocar money por XP por padrao troca XP por money)" />
+  <Translation Id="not_valid_player_msg" Value="{0} Nome/STEAMID invalido." />
+  <Translation Id="not_valid_amount" Value="{0} Valor incorreto." />
+  <Translation Id="zombie_kill_paid_msg" Value="Você recebeu {0} {1} por matar um zumbi.  saldo {2} {3}." />
+  <Translation Id="mega_zombie_kill_paid_msg" Value="Você recebeu {0} {1} por matar um Gigante.  saldo {2} {3}." />
 </Translations>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <TranslationEntry Id="anti_suicide_kick_log" Value="{0} Foi kikado por se matar demais!" />
-  <TranslationEntry Id="anti_suicide_kick_reason" Value="Pare de se matar cara, a vida é bela!" />
-  <TranslationEntry Id="anti_suicide_warning" Value="Você se matou! teleportando para o ultimo local!" />
+  <Translation Id="anti_suicide_kick_log" Value="{0} Foi kikado por se matar demais!" />
+  <Translation Id="anti_suicide_kick_reason" Value="Pare de se matar cara, a vida é bela!" />
+  <Translation Id="anti_suicide_warning" Value="Você se matou! teleportando para o ultimo local!" />
 </Translations>

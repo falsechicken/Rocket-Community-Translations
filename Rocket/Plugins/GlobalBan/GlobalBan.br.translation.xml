@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Translation Id="default_banmessage" Value="Você foi banido! contacte a Staff se acha que foi um erro." />
-  <Translation Id="command_generic_invalid_parameter" Value="Parâmetro Invalido" />
-  <Translation Id="command_generic_player_not_found" Value="Jogador não encontrado" />
-  <Translation Id="command_ban_public_reason" Value="O jogador {0} foi banido por: {1}" />
-  <Translation Id="command_ban_public" Value="O jogador {0} foi banido" />
-  <Translation Id="command_ban_private_default_reason" Value="Você foi banido deste servidor!" />
-  <Translation Id="command_kick_public_reason" Value="O jogador foi {0} foi kickado por: {1}" />
-  <Translation Id="command_kick_public" Value="O jogador foi {0} foi kickado" />
-  <Translation Id="command_kick_private_default_reason" Value="Você foi kickado do servidor" />
+  <TranslationEntry Id="default_banmessage" Value="Você foi banido! contacte a Staff se acha que foi um erro." />
+  <TranslationEntry Id="command_generic_invalid_parameter" Value="Parâmetro Invalido" />
+  <TranslationEntry Id="command_generic_player_not_found" Value="Jogador não encontrado" />
+  <TranslationEntry Id="command_ban_public_reason" Value="O jogador {0} foi banido por: {1}" />
+  <TranslationEntry Id="command_ban_public" Value="O jogador {0} foi banido" />
+  <TranslationEntry Id="command_ban_private_default_reason" Value="Você foi banido deste servidor!" />
+  <TranslationEntry Id="command_kick_public_reason" Value="O jogador foi {0} foi kickado por: {1}" />
+  <TranslationEntry Id="command_kick_public" Value="O jogador foi {0} foi kickado" />
+  <TranslationEntry Id="command_kick_private_default_reason" Value="Você foi kickado do servidor" />
 </Translations>
